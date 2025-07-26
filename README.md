@@ -13,3 +13,15 @@
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmuralias&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karthikmuralias&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+## 🧿 Profile visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthikmuralias&label=PROFILE+VIEWS&style=for-the-badge&color=blue)

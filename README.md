@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 
+## 🛠️ Language and tools  
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-<!--
-**karthikmuralias/karthikmuralias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats Card -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikmuralias&show_icons=true&theme=tokyonight&hide=issues)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmuralias&layout=compact&theme=tokyonight)

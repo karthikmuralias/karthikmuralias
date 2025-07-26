@@ -11,8 +11,5 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikmuralias&show_icons=true&theme=tokyonight&hide=issues)
-
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmuralias&layout=compact&theme=tokyonight)

@@ -1,4 +1,4 @@
-## Hey there!I'm Karthik murali
+## Hey there! <br> I'm Karthik murali <br>
 ## 🛠️ Language and tools  
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white)
